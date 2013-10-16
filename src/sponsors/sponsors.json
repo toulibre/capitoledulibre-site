@@ -1,0 +1,20 @@
+{ 
+	"sponsors": [
+		{
+			"Or": [
+				{
+					"id": "e-novance",
+					"name": "E-novance",
+					"website": "http://www.enovance.com/",
+					"logo": "enovance.png",
+				},
+				{
+					"id": "kdab",
+					"name": "KDab",
+					"website": "http://www.kdab.com/",
+					"logo": "kdab.png",
+				},
+			]
+		}
+	]
+}
