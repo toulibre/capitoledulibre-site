@@ -26,6 +26,19 @@
     {% endif %}
 
     </div>
-        
+
+</div>
+
+
+<div class="navbar clearfix">
+    <div class="navbar-inner">
+    <ul class="nav">
+        {% for p in VIDEO_PAGES %}
+        <li>
+        <a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+    </div>
 </div>
 {% endblock %}
