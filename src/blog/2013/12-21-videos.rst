@@ -14,15 +14,30 @@ Pas moins de 8 salles filmées en parallèlem le samedi, et 2 salles le dimanche
 
 Certaines vidéos ont fuité avant même que les pages listant ces vidéos ne soit prêtes sur le site (eh oui, le kernel du CDL commençait juste à entrer dans une hibernation post-événement, il n'y avait que les vidéastes qui bossaient). La vidéo la plus attendue s'est donc retrouvée sur Youtube, il n'a pas fallu longtemps pour qu'un blogueur un peu lu en parle (comme quoi, laissez trainer un lien sur un chan irc obscur, et vous le retrouvez très vite ailleurs sur les internets :-)). Blague à part, merci à `Korben d'avoir fait la promotion`_ de la `conférence de Benjamin Bayart et Jérémie Zimmermann`_, et du Capitole du Libre en général, on est flattés, et en plus ça a été l'occasion de troller sur youtube, la capacité du réseau, les torrents ... 
 
-Les conférences sur `Internet Libre`_ sont l'occasion d'apprendre comment héberger soi-même ses données, mais on retrouve aussi de l'Internet et du Libre dans la conférence de *Ludovic Hirlimann* sur la `signature et le chiffrement de mail`_ : en ce moment, c'est d'actualité (article 20, démocrature)
+Des conférences sur le droit, les licences libres ou l'OpenData sont visibles dans la partie `grand public`_. 
+Les conférences sur `Internet Libre`_ sont l'occasion d'apprendre comment héberger soi-même ses données, mais on retrouve aussi de l'Internet et du Libre dans la conférence de *Ludovic Hirlimann* sur la `signature et le chiffrement de mail`_ : en ce moment, c'est d'actualité (article 20, démocrature). 
+Dans les conférences `bureautique et multimedia`_ on peut découvrir des logiciels libres sous linux tels que LibreOffice_, KDEnlive_, Blender_ ou Krita_. 
+Enfin les conférences techniques_ sont l'occasion de découvrir l'OS FreeBSD_ et ses jails, l'outil de qualité du code Pylint_, ou encore l'actualité en matière de matériel libre.
 
 
-.. _`Internet Libre`: /conferences/internet-libre
-.. _`vidéos des conférences`: /conferences
 .. _Veezual: http://veezual.fr/
 .. _Vigisys: http://vigisys.fr/
 .. _FDN: http://www.fdn.fr/
 .. _`Quadrature du Net`: http://www.laquadrature.net/
-.. _`conférence de Benjamin Bayart et Jérémie Zimmermann`: /conferences/conference-de-cloture.html
-.. _`signature et le chiffrement de mail`: /
 .. _`Korben d'avoir fait la promotion`: http://korben.info/petite-conference-de-jeremie-zimmermann-et-benjamin-bayart.html
+
+
+.. _`conférence de Benjamin Bayart et Jérémie Zimmermann`: /conferences/conference-de-cloture.html
+.. _`vidéos des conférences`: /conferences
+.. _technique: /conferences/technique
+.. _`grand public`: /conferences/grand-public
+.. _`Internet Libre`: /conferences/internet-libre
+.. _`bureautique et multimedia`: /conferences/bureautique-multimedia
+
+.. _`signature et le chiffrement de mail`: /conferences/technique/signature-et-chiffrement-du-courrier-electronique.html
+.. _FreeBSD: /conferences/technique/
+.. _Pylint: /conferences/technique/
+.. _LibreOffice: /conferences/multimedia-bureautique
+.. _KDEnlive: /conferences/multimedia-bureautique
+.. _Krita: /conferences/multimedia-bureautique
+.. _Blender: /conferences/multimedia-bureautique
