@@ -13,12 +13,14 @@
     <div class="row">
 
         <div class="span6">
+            <h2 class="hidden">Rr&eacute;sum&eacute;</h2>
             {{ page.content }}
             {% if page.slides_url %}
             <p>Voir la <a href="{{ page.slides_url }}" target="_blank">pr&eacute;sentation</a></p>
             {% endif %}
         </div>
         <div class="span6">
+            <h2 class="hidden">Vid&eacute;o</h2>
             {% include "inc-video.html" %}
         </div>
         
@@ -28,17 +30,14 @@
     </div>
 
 </div>
-
-
-<div class="navbar clearfix">
-    <div class="navbar-inner">
-    <ul class="nav">
-        {% for p in VIDEO_PAGES %}
-        <li>
-        <a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
-        </li>
-        {% endfor %}
-    </ul>
-    </div>
+<div class="">
+<h2 class="hidden">Tous les domaines</h2>
+<ul class="inline">
+    {% for p in VIDEO_PAGES %}
+    <li>
+    <a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
+    </li>
+    {% endfor %}
+</ul>
 </div>
 {% endblock %}
