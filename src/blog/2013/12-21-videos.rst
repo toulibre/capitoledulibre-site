@@ -3,7 +3,7 @@ Retrouvez les vidéos du Capitole du Libre 2013
 ===============================================
 
 :category: programme
-:date: 2013-12-21
+:date: 2013-12-23
 :author: Toulibre
 :tags: vidéos, conférences, Lua workshop, FranceJS, Akademy-fr, Internet Libre, Grand Public, Bureautique, Multimedia
 :status: draft
@@ -29,15 +29,15 @@ Enfin les conférences techniques_ sont l'occasion de découvrir l'OS FreeBSD_ e
 
 .. _`conférence de Benjamin Bayart et Jérémie Zimmermann`: /conferences/conference-de-cloture.html
 .. _`vidéos des conférences`: /conferences
-.. _technique: /conferences/technique
+.. _techniques: /conferences/technique
 .. _`grand public`: /conferences/grand-public
 .. _`Internet Libre`: /conferences/internet-libre
 .. _`bureautique et multimedia`: /conferences/bureautique-multimedia
 
 .. _`signature et le chiffrement de mail`: /conferences/technique/signature-et-chiffrement-du-courrier-electronique.html
-.. _FreeBSD: /conferences/technique/
-.. _Pylint: /conferences/technique/
-.. _LibreOffice: /conferences/multimedia-bureautique
-.. _KDEnlive: /conferences/multimedia-bureautique
-.. _Krita: /conferences/multimedia-bureautique
-.. _Blender: /conferences/multimedia-bureautique
+.. _FreeBSD: /conferences/technique/les-jails-freebsd-du-chroot-au-container.html
+.. _Pylint: /conferences/technique/pylint-10-etat-des-lieux-apres-10-ans-de-developpement.html
+.. _LibreOffice: /conferences/multimedia-bureautique/libreoffice-le-meilleur-de-la-bureautique-libre.html
+.. _KDEnlive: /conferences/multimedia-bureautique/comment-ne-pas-endormir-vos-invites-devant-le-film-de-vos-dernieres-vacances-grace-a-kdenlive.html
+.. _Krita: /conferences/multimedia-bureautique/evolutions-recentes-de-krita.html
+.. _Blender: /conferences/multimedia-bureautique/jeux-videos-et-applications-interactives-avec-blender.html
