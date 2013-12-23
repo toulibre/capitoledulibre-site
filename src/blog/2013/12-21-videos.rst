@@ -19,6 +19,7 @@ Les conférences sur `Internet Libre`_ sont l'occasion d'apprendre comment hébe
 Dans les conférences `bureautique et multimedia`_ on peut découvrir des logiciels libres sous linux tels que LibreOffice_, KDEnlive_, Blender_ ou Krita_. 
 Enfin les conférences techniques_ sont l'occasion de découvrir l'OS FreeBSD_ et ses jails, l'outil de qualité du code Pylint_, ou encore l'actualité en matière de matériel libre.
 
+Le Capitole du Libre a reçu également plusieurs conférences de communautés du libre : Akademy-fr_ qui regroupe les développeurs et contributeurs KDE. FranceJS_, une variété de conférences sur le language JavaScript et son utilisation. `Lua Workshop`_, en anglais, organisée pour la communauté du language Lua, et Openstack_, qui traite du "cloud" opensource.
 
 .. _Veezual: http://veezual.fr/
 .. _Vigisys: http://vigisys.fr/
@@ -33,6 +34,10 @@ Enfin les conférences techniques_ sont l'occasion de découvrir l'OS FreeBSD_ e
 .. _`grand public`: /conferences/grand-public
 .. _`Internet Libre`: /conferences/internet-libre
 .. _`bureautique et multimedia`: /conferences/bureautique-multimedia
+.. _Akademy-fr: /conferences/akademy-fr
+.. _FranceJS: /conferences/francejs
+.. _`Lua Workshop`: /conferences/lua-workshop
+.. _Openstack: /conferences/openstack
 
 .. _`signature et le chiffrement de mail`: /conferences/technique/signature-et-chiffrement-du-courrier-electronique.html
 .. _FreeBSD: /conferences/technique/les-jails-freebsd-du-chroot-au-container.html
