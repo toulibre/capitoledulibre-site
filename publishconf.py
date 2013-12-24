@@ -11,7 +11,8 @@ MENUITEMS = (('Programme', SITEURL + '/programme.html'),
              ('Sponsors', SITEURL + '/sponsors.html'),
              ('Informations pratiques', SITEURL + '/informations-pratiques.html'),
              ('Communication', SITEURL + '/communication.html'),
-             ('Blog', SITEURL + '/blog.html'),)
+             ('Blog', SITEURL + '/blog.html'),
+             ('Videos', SITEURL + '/conferences/'),)
 
 DELETE_OUTPUT_DIRECTORY = True
 
