@@ -3,7 +3,7 @@ Retrouvez les vidéos du Capitole du Libre 2013
 ===============================================
 
 :category: programme
-:date: 2013-12-23
+:date: 2013-12-24
 :author: Toulibre
 :tags: vidéos, conférences, Lua workshop, FranceJS, Akademy-fr, OpenStack, Internet Libre, Grand Public, Bureautique, Multimedia
 :summary: Au cas où vous n'aviez rien prévu pour les fêtes de fin d'année, voici un retour sur les conférences filmées au Capitole du Libre 2013.
