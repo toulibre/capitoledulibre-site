@@ -9,23 +9,24 @@
 <h1>{{ page.title }}{% if page.speakers %} <small>par <em>{{ page.speakers }}</em></small>{% endif %}</h1>
 
     <div>
-    {% if page.video_url %}
     <div class="row">
 
-        <div class="span6">
+
+        <div class="{% if page.video_url %}span6{% else %}span12{% endif %}">
             <h2 class="hidden">R&eacute;sum&eacute;</h2>
             {{ page.content }}
             {% if page.slides_url %}
             <p>Voir la <a href="{{ page.slides_url }}" target="_blank">pr&eacute;sentation</a></p>
             {% endif %}
         </div>
+        {% if page.video_url %}
         <div class="span6">
             <h2 class="hidden">Vid&eacute;o</h2>
             {% include "inc-video.html" %}
         </div>
-        
+        {% endif %}
+
     </div>
-    {% endif %}
 
     </div>
 
