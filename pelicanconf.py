@@ -8,16 +8,16 @@ SITEDESCRIPTION = u'L\'événement autour de Logiciel Libre à Toulouse'
 THEME = 'cdltheme-2013'
 OUTPUT_PATH = 'output-cdl2013/'
 CSS_FILE = 'styles.css'
-PLUGIN_PATH = '../src/pelican-plugins'
+PLUGIN_PATHS = ['../src/pelican-plugins']
 PLUGINS = ['html_rst_directive','ical']
 
 DELETE_OUTPUT_DIRECTORY = True
 WITH_FUTURE_DATES = False
 
-ARTICLE_DIR = 'blog'
-ARTICLE_EXCLUDES = ('','blog','intervenants','sponsors','liens')
-PAGE_DIR = 'pages'
-PAGE_EXCLUDES = ('blog','intervenants',)
+ARTICLE_PATHS = ['blog']
+ARTICLE_EXCLUDES = ['','blog','intervenants','sponsors','liens']
+PAGE_PATHS = ['pages']
+PAGE_EXCLUDES = ['blog','intervenants']
 ARTICLE_URL = 'blog/{date:%Y}/{date:%m}-{date:%d}-{slug}.html'
 ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%m}-{date:%d}-{slug}.html'
 ARTICLE_LANG_URL = 'blog/{date:%Y}/{date:%m}-{date:%d}-{slug}-{lang}.html'
@@ -64,7 +64,7 @@ DEFAULT_PAGINATION = 4
 SUMMARY_MAX_LENGTH = 50
 
 # static paths will be copied under the same name
-STATIC_PATHS = ["files","logos","photos","icons",] 
+STATIC_PATHS = ["files","logos","photos","icons",]
 RELATIVE_URLS = False
 
 DIRECT_TEMPLATES = ('index', 'blog', 'tags', 'categories', 'archives', 'map', 'questionnaire', 'live')
